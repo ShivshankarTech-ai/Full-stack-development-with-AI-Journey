@@ -1,4 +1,4 @@
-# Full-stack-development-with-AI-Journey
+# Full-stack-development-with-AI and AI researcher Journey...
 My Journey of learning Full stack web develoment with AI .
 # Full Stack Development with AI 🚀
 # Hi, I'm Shivshankar Totare 👋
